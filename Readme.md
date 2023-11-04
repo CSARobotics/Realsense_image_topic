@@ -15,7 +15,7 @@ sudo apt-get install ros-melodic-realsense2-camera ros-melodic-realsense2-descri
 
 > Linux - Ubuntu
 > 
-> ROS <Distro>
+> ROS "<Distro>"
 
 
 ## utilization
