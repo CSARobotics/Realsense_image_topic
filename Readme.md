@@ -42,7 +42,7 @@ rosrun rqt_image_view rqt_image_view
 ```python
 rosrun rviz rviz
 ```
-Ya da gelen node üzerinden veriyi alıp kullanmak için bu proje içindeki paket indirilebilir.
+Ya da gelen node üzerinden veriyi alıp kullanmak için bu proje içindeki paket kullanılabilir.
 
 > Stereo kameranın yayınladığı topicler
 
