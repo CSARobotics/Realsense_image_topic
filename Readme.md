@@ -44,6 +44,11 @@ rosrun rviz rviz
 ```
 Ya da gelen topic üzerinden datayı alıp kullanmak için bu proje içindeki node kullanılabilir.
 
+```python
+cd ~/catkin_ws/src
+git clone https://github.com/CSARobotics/Realsense_image_topic
+```
+
 > Stereo kameranın yayınladığı topicler
 
 - /camera/color/camera_info
