@@ -10,6 +10,9 @@ Realsense D435i kamerayı topiclerden veri alarak kullanmaya başlamak için ger
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install ros-melodic-realsense2-camera ros-melodic-realsense2-description
+/// ya da
+sudo apt-get install ros-noetic-realsense2-camera
+
 ```
 ### Prerequirements
 
