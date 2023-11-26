@@ -4,7 +4,11 @@ Realsense D435i kamerayı topiclerden veri alarak kullanmaya başlamak için ger
 
 ## Installation
 
-Öncelikle Realsense için gerekli paketleri indirmek gerekli.
+Öncelikle Realsense için gerekli paketleri indirmeye başlamadan librealsense SDK 2.0 kurulmalıdır.
+
+https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md
+
+Bu linkten gerekli şeyler kuruldukran sonra paketler inirilmelidir.
 
 ```python
 sudo apt-get update
