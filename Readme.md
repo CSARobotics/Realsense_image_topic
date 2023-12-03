@@ -8,7 +8,7 @@ Realsense D435i kamerayı topiclerden veri alarak kullanmaya başlamak için ger
 
 https://github.com/IntelRealSense/librealsense/blob/master/doc/distribution_linux.md
 
-Bu linkten gerekli şeyler kuruldukran sonra paketler inirilmelidir.
+Bu linkten gerekli paketler kurulduktan sonra paketler indirilmelidir.
 
 ```python
 sudo apt-get update
